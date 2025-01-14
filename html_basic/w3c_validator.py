@@ -27,7 +27,7 @@ Return:
 Exit status is the # of errors, 0 on Success
 """
 import sys
-import requests
+import requests # type: ignore
 import os
 
 
