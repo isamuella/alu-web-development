@@ -9,13 +9,13 @@ Welcome to my simple guide through the basics of creating a webpage using HTML o
 ### Steps to create a functional HTML Webpage:
 
 1. **Structuring the HTML**:
-   I will begin by using HTML elements, tags, and attributes for the content to flow.
+   I will begin by using HTML elements, tags, and attributes for the structure to flow.
 
 2. **Adding Content**:
-   I will have to add images, texts, and other elements provided in the design like '<img>' for images, '<p>' for text writing, etc.
+   I will have to add images, texts, and other elements provided in the design like `<img>` for images, `<p>` for text writing, etc.
 
 3. **Creating Links**:
-   I will use '<a>' to get to use links easily and navigate menus.
+   I will use `<a>` to get to use links easily and navigate menus.
 
 ---
 
