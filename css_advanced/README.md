@@ -32,3 +32,6 @@ Now let's get to see how to style the HTML elements in detail:
 With these steps i will use CSS to create better styling of my existing HTML that is functional and organized. This will work well to make the simple design into a more advanced webpage.
 
 **Let's Make it Happen!**
+
+
+<img width="632" alt="Screenshot 2025-01-17 at 16 21 53" src="https://github.com/user-attachments/assets/5b47fffb-414a-4a2f-8274-6da80a463be7" />
